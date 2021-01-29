@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name='jb_bootcamp',
     version='0.0.1',
-    author='Albert K Matsushita',
-    author_email='akmatsus@eng.ucsd.edu',
+    author='Justin Bois',
+    author_email='bois@caltech.edu',
     description='Utilities for use in bootcamp.',
     long_description=long_description,
     long_description_content_type='text/markdown',
